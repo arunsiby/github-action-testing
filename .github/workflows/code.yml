@@ -52,4 +52,4 @@ jobs:
           ./script.sh
 
       - name: "Just a test"
-        run: ping -c 5 8.8.8.8
+        run: df -h
